@@ -1,4 +1,4 @@
 # apna-project1
 This is my first git repository.
 <br>
-Author - Prashant Kumawat
+Author - Prashant Kumawat(werdtyuiopgi)
